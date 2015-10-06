@@ -1,0 +1,20 @@
+PODS:
+  - GHODictionary (1.0.9)
+  - MPMessagePack (1.2.2):
+    - GHODictionary
+  - SwiftyJSON (2.3.0)
+
+DEPENDENCIES:
+  - MPMessagePack (from `~/Projects/MPMessagePack`)
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  MPMessagePack:
+    :path: "~/Projects/MPMessagePack"
+
+SPEC CHECKSUMS:
+  GHODictionary: 1f7873492445e0f33ac19575a358c3c91926b564
+  MPMessagePack: d319b1defc053dc52432dfa0672b0c6325c48c56
+  SwiftyJSON: 8d6b61a70277ef2a5d710d372e06e7e2d87fb9e4
+
+COCOAPODS: 0.38.2
